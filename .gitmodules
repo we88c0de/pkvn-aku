@@ -1,0 +1,3 @@
+[submodule "playcdn"]
+	path = playcdn
+	url = https://github.com/playcdn/playcdn.github.io
